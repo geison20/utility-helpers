@@ -1,1 +1,1 @@
-TESTE
+Pacote com helpers para uso de desenvolvimento diario.
