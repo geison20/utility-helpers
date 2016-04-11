@@ -20,7 +20,7 @@
     "autoload" : 
     {
         "psr-4" : {
-            "geissonmachado\\Helpers\\" : ""
+            "geissonmachado\\Helpers\\" : "Helpers/"
         },
         "files" : ["teste.php"]
     }
