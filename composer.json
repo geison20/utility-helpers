@@ -2,14 +2,16 @@
     "name": "geissonmachado/helpers",
     "description": "Pacote com Helpers personalizados.",
     "type": "library",
+    "keywords": ["helpers", "utility"],
     "license": "MIT",
     "authors": [
         {
             "name": "Geisson Machado Antunes",
-            "email": "geisonnm@hotmail.com"
+            "email": "geisonnm@hotmail.com",
+            "homepage": "https://github.com/geison20",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4"
     }
