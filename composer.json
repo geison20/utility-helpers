@@ -1,0 +1,14 @@
+{
+    "name": "geissonmachado/helpers",
+    "description": "Pacote com Helpers personalizados.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geisson Machado Antunes",
+            "email": "geisonnm@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
