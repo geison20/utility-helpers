@@ -1,6 +1,6 @@
 <?php
 
-function teste()
+function testando()
 {
-    echo teste;
+    echo "ISSO E UM TESTE";
 }

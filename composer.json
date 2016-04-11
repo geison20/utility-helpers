@@ -17,5 +17,11 @@
     "require": {
         "php": ">=5.4"
     },
-    "files" : ["teste.php"]
+    "autoload" : 
+    {
+        "psr-4" : {
+            "geissonmachado\\Helpers\\" : ""
+        },
+        "files" : ["teste.php"]
+    }
 }
