@@ -4,6 +4,7 @@
     "type": "library",
     "keywords": ["helpers", "utility"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Geisson Machado Antunes",
